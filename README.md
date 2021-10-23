@@ -1,6 +1,6 @@
 # Nunua Burger
 
-Burger Duka is a web app that lets users input the ingredients of the burger they'd like to eat.
+Nunua is a web app that lets users input the ingredients of the burger they'd like to eat.
 
 ## Live Site
 
