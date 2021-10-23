@@ -4,7 +4,7 @@ Nunua is a web app that lets users input the ingredients of the burger they'd li
 
 ## Live Site
 
-View page https://burgerduka.netlify.app/
+View page hhttps://nunuaburger.netlify.app/
 
 ## How to use the Application
 
